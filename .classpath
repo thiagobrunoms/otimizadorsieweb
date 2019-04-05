@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="lib/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="lib/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="lib/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="lib/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="lib/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="lib/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="lib/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="lib/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="lib/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="lib/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="lib/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-chrome-driver/2.52.0/fe32be8d32001398689d17544241fbb879f5705c/selenium-chrome-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-remote-driver/2.52.0/a4040ffce1a58f6edd5a704d84d6432cbcbaaede/selenium-remote-driver-2.52.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms.jar" sourcepath="lib/jgoodies-forms-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SWO/lib/jgoodies-forms-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-common.jar" sourcepath="lib/jgoodies-common-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SWO/lib/jgoodies-common-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="lib/selenium-api/2.52.0/1c046fd54082863ebb50c76201050073210a6a6a/selenium-api-2.52.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-safari-driver-2.52.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-ie-driver-2.52.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-support/2.52.0/d59fb1d85e0cacd03eddb13e776da33d75281339/selenium-support-2.52.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
