@@ -1,1 +1,1 @@
-# SWO - SieWeb Otimizer
+# SWO - SieWeb Optimizer
